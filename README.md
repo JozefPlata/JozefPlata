@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JozefPlata
-- 👀 I’m interested in Vue, JavaScript, TypeScript, Babylon-js, , Node-js, Electron, webGPU, Python
+- 👀 I’m interested in Vue, JavaScript, TypeScript, Babylon-js, Node-js, Electron, webGPU, Python
 - 🌱 I’m currently learning backend stuff...
 - 💞️ I’m looking to collaborate on ... nothing for now,
 - 📫 How to reach me ... using my email: plata.jozef@proton.me
