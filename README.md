@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JozefPlata
-- 👀 I’m interested in Vue, JavaScript, TypeScript, Babylon-js, Node-js, Electron, webGPU, Python
-- 🌱 I’m currently learning backend stuff...
-- 💞️ I’m looking to collaborate on ... nothing for now,
-- 📫 How to reach me ... using my email: plata.jozef@proton.me
+- 👀 JavaScript/TypeScript, Python, webGL/webGPU
+- 🌱 I’m currently revising my resume...
+- 💞️ I’m looking for a new job as Full-Stack Developer/Engineer
+- 📫 How to reach me: plata.jozef@proton.me
 
 <!---
 JozefPlata/JozefPlata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
