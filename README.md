@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JozefPlata
 - 👀 JavaScript/TypeScript, Python, webGL/webGPU
-- 💞️ I’m looking for a new job as Full-Stack Engineer
 - 📫 How to reach me: plata.jozef@proton.me
 
 <!---
