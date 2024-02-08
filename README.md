@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JozefPlata
-- 👀 JavaScript/TypeScript, Python, webGL/webGPU
+- 👀 JavaScript/TypeScript, Python, Rust/Zig/Go, webGL/webGPU
 - 📫 How to reach me: plata.jozef@proton.me
 
 <!---
