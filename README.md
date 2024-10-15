@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @JozefPlata
-- 👀 JavaScript/TypeScript, Python, Rust/Zig/Go, webGL/webGPU
+- Fullstack: JavaScript/TypeScript, Python, Go
+- Procedural geometry engineering
+- Sometimes webGL/webGPU (babylon.js)
+- After hours: ML
+  
 - 📫 How to reach me: plata.jozef@proton.me
 
 <!---
